@@ -1,0 +1,10 @@
+@"
+fastapi
+uvicorn
+python-dotenv
+requests
+pydub
+imageio-ffmpeg
+google-genai
+python-multipart
+"@ | Set-Content voicecue/requirements.txt
